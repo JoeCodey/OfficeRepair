@@ -3,12 +3,13 @@
 
 
 ## Structural View 
-![Structural View](/Diagrams/Behavioural View 1.jpg)
+![Structural View](/Diagrams/StructuralView.jpg)
+
 
 ## Behavioural View
 
 
-![Behavioural View1](/Diagrams/Behavioural View 1.jpg)
+![Behavioural View1](/Diagrams/Behavioural%20View%201.jpg)
 
-![Behavioural View2](/Diagrams/Behavioural View 2.jpg)
+![Behavioural View2](/Diagrams/Behavioural%20View%202.jpg)
 
